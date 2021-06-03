@@ -31,3 +31,6 @@ if __name__ == '__main__':
         write_order_to_json('vegetable', '16', '800', 'PetrovAV', '30.05.2021')
     except Exception as ans:
         print(ans)
+
+
+write_order_to_json('vegetable', '16', '800', 'PetrovAV', '30.05.2021')
